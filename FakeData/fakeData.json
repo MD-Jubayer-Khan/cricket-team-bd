@@ -1,0 +1,128 @@
+  [{
+          "name": "Tamim Iqbal",
+          "salary": 500,
+          "age": 33,
+          "battingStyle": "Left handed",
+          "grade": "A+",
+          "bowlingStyle": "Right-arm off break Right-arm medium",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tamim_Iqbal_Khan.jpg"
+      },
+      {
+          "name": "Imrul Kayes",
+          "salary": 3800,
+          "age": 32,
+          "battingStyle": "Left handed",
+          "grade": "A",
+          "bowlingStyle": "Right-arm off break",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Imrul_Kayes_%281%29_%28cropped%29.jpg/250px-Imrul_Kayes_%281%29_%28cropped%29.jpg"
+      },
+      {
+          "name": "Soumya Sarkar",
+          "salary": 4700,
+          "age": 27,
+          "battingStyle": "Left handed",
+          "grade": "A+",
+          "bowlingStyle": "Right-arm medium fast",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Soumya_Sarkar_%281%29_%28cropped%29.jpg/465px-Soumya_Sarkar_%281%29_%28cropped%29.jpg"
+      },
+      {
+          "name": "Mominul Haque",
+          "salary": 4300,
+          "age": 30,
+          "battingStyle": "Left handed",
+          "grade": "A",
+          "bowlingStyle": "Slow left-arm orthodox",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Mominul_Haque_%282%29_%28cropped%29.jpg/463px-Mominul_Haque_%282%29_%28cropped%29.jpg"
+      },
+      {
+          "name": "Mushfiqur Rahim",
+          "salary": 5000,
+          "age": 34,
+          "battingStyle": "Right handed",
+          "grade": "A+",
+          "bowlingStyle": "Right-arm off break",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mushfiqur_Rahim_2018_%28cropped%29.jpg/480px-Mushfiqur_Rahim_2018_%28cropped%29.jpg"
+      },
+      {
+          "name": "Liton Das",
+          "salary": 3800,
+          "age": 26,
+          "battingStyle": "Right handed",
+          "grade": "B",
+          "bowlingStyle": "Right-arm off break",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Liton_Das_%283%29_%28cropped%29.jpg/360px-Liton_Das_%283%29_%28cropped%29.jpg"
+      },
+      {
+          "name": "Mashrafe Mortaza",
+          "salary": 5300,
+          "age": 36,
+          "battingStyle": "Right handed",
+          "grade": "A",
+          "bowlingStyle": "Right-arm fast medium",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mashrafe_conference_1.jpg/480px-Mashrafe_conference_1.jpg"
+      },
+      {
+          "name": "Shakib Al Hasan",
+          "salary": 500,
+          "age": 32,
+          "battingStyle": "Left handed",
+          "grade": "A+",
+          "bowlingStyle": "Slow left-arm orthodox",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shakib_Al_Hasan_%284%29_%28cropped%29.jpg/360px-Shakib_Al_Hasan_%284%29_%28cropped%29.jpg"
+      },
+      {
+          "name": "Mahmudullah",
+          "salary": 5000,
+          "age": 35,
+          "battingStyle": "Right handed",
+          "grade": "A+",
+          "bowlingStyle": "Right arm off break",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mahmudullah_Riyad_on_practice_session_%2816%29_%28cropped%29.jpg/361px-Mahmudullah_Riyad_on_practice_session_%2816%29_%28cropped%29.jpg"
+      },
+      {
+          "name": "Mosaddek Hossain",
+          "salary": 3800,
+          "age": 25,
+          "battingStyle": "Right handed",
+          "grade": "B",
+          "bowlingStyle": "Right arm off break",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mosaddek_Hossain_Saikat_%282%29_%28cropped%29.jpg/466px-Mosaddek_Hossain_Saikat_%282%29_%28cropped%29.jpg"
+      },
+      {
+          "name": "Mehidy Hasan Miraz",
+          "salary": 3800,
+          "age": 23,
+          "battingStyle": "Right handed",
+          "grade": "B",
+          "bowlingStyle": "Right arm off break",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A7%80_%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8_%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C_%28cropped%29.jpg/480px-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A7%80_%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8_%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C_%28cropped%29.jpg"
+      },
+      {
+          "name": "Rubel Hossain",
+          "salary": 3800,
+          "age": 31,
+          "battingStyle": "Right handed",
+          "grade": "B",
+          "bowlingStyle": "Right-arm fast medium",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Rubel_Hossain_%282%29_%28cropped%29.jpg/480px-Rubel_Hossain_%282%29_%28cropped%29.jpg"
+      },
+
+      {
+          "name": "Taskin Ahmed",
+          "salary": 3800,
+          "age": 26,
+          "battingStyle": "Left handed",
+          "grade": "B",
+          "bowlingStyle": "Right-arm fast",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mahbub_Ali_Zaki_with_Taskin_Ahmed_%28cropped%29.jpg"
+      },
+      {
+          "name": "Mustafizur Rahman",
+          "salary": 3800,
+          "age": 26,
+          "battingStyle": "Left handed",
+          "grade": "B",
+          "bowlingStyle": "Left-arm fast medium",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustafizur_Rahman_on_practice_field_in_Dhaka_on_2018_%281%29_%28cropped%29.jpg/360px-Mustafizur_Rahman_on_practice_field_in_Dhaka_on_2018_%281%29_%28cropped%29.jpg"
+      }
+  ]
